@@ -13,7 +13,10 @@ button{
     background-color: cornsilk;
      color: chartreuse;
      padding: 20px;
-
-
-
+}
+.passo{
+  display: none;
+}
+.passo.ativo{
+  display: block;
 }
