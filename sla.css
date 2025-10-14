@@ -20,3 +20,7 @@ button{
 .passo.ativo{
   display: block;
 }
+
+.img02{
+  width: 110%;
+}
