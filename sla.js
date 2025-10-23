@@ -11,6 +11,3 @@ avanca.forEach(button => {
     })
 })
 
- avanca.forEach (button => { 
-     button.addEventListener('click', function (){
-        
